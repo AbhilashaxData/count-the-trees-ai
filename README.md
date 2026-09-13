@@ -5,6 +5,9 @@
 **Live Demo:**  
 https://325efbc22da8f2a983.gradio.live
 
+**Demo availability:**
+The current public Gradio demo is hosted through a Google Colab runtime. The demo link requires the associated runtime to be active. The repository contains the complete application code and installation requirements for reproducing the tool.
+
 > **Note:** The live demo is currently hosted through a temporary Gradio share link and requires the underlying Google Colab runtime to remain active.
 
 ---
